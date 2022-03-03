@@ -5,7 +5,7 @@
 	<title>Numeros Primos</title>
 </head><!DOCTYPE html>
 <body>
-	<form method="post" action="dos.php" name="formEsPrimo">
+	<form method="post" action="index.php" name="formEsPrimo">
 		<input type="text" name="inputNumPrimo" required>
 		<br>
 		<button type="submit">Ver si es primo</button>
